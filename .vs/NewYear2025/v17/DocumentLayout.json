@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\bjmbf\\C#\\c# wpf\\NewYear2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{765633B1-A70E-432B-AC7F-D9D42BE92EDF}|NewYear2025\\NewYear2025.csproj|g:\\bjmbf\\c#\\c# wpf\\newyear2025\\newyear2025\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{765633B1-A70E-432B-AC7F-D9D42BE92EDF}|NewYear2025\\NewYear2025.csproj|solutionrelative:newyear2025\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765633B1-A70E-432B-AC7F-D9D42BE92EDF}|NewYear2025\\NewYear2025.csproj|g:\\bjmbf\\c#\\c# wpf\\newyear2025\\newyear2025\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765633B1-A70E-432B-AC7F-D9D42BE92EDF}|NewYear2025\\NewYear2025.csproj|solutionrelative:newyear2025\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\bjmbf\\C#\\c# wpf\\NewYear2025\\NewYear2025\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NewYear2025\\MainWindow.xaml",
+              "ToolTip": "G:\\bjmbf\\C#\\c# wpf\\NewYear2025\\NewYear2025\\MainWindow.xaml",
+              "RelativeToolTip": "NewYear2025\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T21:39:38.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\bjmbf\\C#\\c# wpf\\NewYear2025\\NewYear2025\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NewYear2025\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\bjmbf\\C#\\c# wpf\\NewYear2025\\NewYear2025\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NewYear2025\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwFsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:39:36.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\favorites_white_button_icon_227827.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\favorites_white_button_icon_227827.ico" />
+  </ItemGroup>
+
+</Project>
